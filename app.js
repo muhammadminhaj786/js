@@ -348,7 +348,8 @@ function sumFibs(num) {
 
   return result;
 }
-
+var n = 1;
+cosole.log(n)
 // test here
 sumFibs(4);
 >>>>>>> 33ba6b06e5f884af7e1a373b4cfc054d1e8d8d67
